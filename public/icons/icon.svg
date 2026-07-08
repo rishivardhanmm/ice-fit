@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ice Fit">
+  <rect width="512" height="512" rx="96" fill="#11131f"/>
+  <path d="M150 292h212" stroke="#f6f7f8" stroke-width="34" stroke-linecap="round"/>
+  <path d="M188 214h136" stroke="#30b980" stroke-width="34" stroke-linecap="round"/>
+  <path d="M208 360h96" stroke="#f6f7f8" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="162" cy="214" r="18" fill="#30b980"/>
+  <circle cx="350" cy="214" r="18" fill="#30b980"/>
+</svg>
+
